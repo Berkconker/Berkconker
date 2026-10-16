@@ -36,6 +36,20 @@ An Electron + Claude desktop assistant: chat with streaming and web research, ta
 
 ---
 
+### AKA Biyoteknoloji · [akabiotech.vercel.app](https://akabiotech.vercel.app/)
+
+Live corporate website built for a real client, a biotechnology company: research areas, R&D, product lines and partner brands, in Turkish and English. Responsive, with motion design and a mobile menu.
+
+`Next.js` `Tailwind CSS` `Framer Motion`
+
+![AKA Biyoteknoloji](assets/aka-home.jpg)
+
+| Research areas | Mobile |
+|---|---|
+| ![Research areas](assets/aka-areas.jpg) | <img src="assets/aka-mobile.jpg" alt="Mobile" width="220"> |
+
+---
+
 ### Tutu Veteriner · [tutuveterinerklinigi.vercel.app](https://tutuveterinerklinigi.vercel.app/)
 
 Mobile-first website for a veterinary clinic: services, contact and appointment requests.
